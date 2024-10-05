@@ -1,24 +1,26 @@
 {
-  "slug": "Interrobang",
-  "name": "Interrobang",
-  "version": "2.0.1",
+  "slug": "Shaihulud",
+  "name": "Shaihulud",
+  "version": "1.0",
   "license": "GPL-3.0-or-later",
-  "brand": "Interrobang",
-  "author": "Jim Allman",
+  "brand": "Shaihu1ud",
+  "author": "Mike S",
   "authorEmail": "jim@ibang.com",
   "authorUrl": "https://ibang.com/",
   "pluginUrl": "https://github.com/jimallman/interrobang-rack-modules/",
   "manualUrl": "https://github.com/jimallman/interrobang-rack-modules/blob/master/README.md",
   "sourceUrl": "https://github.com/jimallman/interrobang-rack-modules/",
-  "donateUrl": "https://paypal.me/jimallman",
+  "donateUrl": "It's free :)",
   "changelogUrl": "",
   "modules": [
     {
-      "slug": "ScribbleStrip",
-      "name": "Scribble Strip, 3 HP (SS-3)",
-      "description": "Makes it easy to navigate a complex patch.",
+      "slug": "Label Strip",
+      "name": "Label Strip",
+      "description": "Simple but customizable 3hp label",
       "tags": [
-        "visual"
+        "visual",
+        "label",
+        "utility"
       ]
     }
   ]

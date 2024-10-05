@@ -1,4 +1,4 @@
-# Interrobang modules (free)
+# ShaiHulud's modules (free)
 
 Free modules for the [VCV Rack virtual modular synth](https://vcvrack.com/). These will be mostly visual and UX-focused at first, then hopefully more musical over time.
 
@@ -10,3 +10,10 @@ This is a custom label you can use to organize your patch and label sub-assembli
 ![Two lines, top to bottom](doc/ss3-demo-two-lines.png?raw=true "Title")
 
 _This module uses the swell [Mad Midnight Marker](res/mad-midnight-marker-font) typeface by Darrell Flood (dadiomouse@gmail.com)._
+
+// 
+TODO LIST
+- change name, links, descriptions in:
+  - readme.md
+  - makefile
+  - plugin.json
